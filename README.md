@@ -1,2 +1,3 @@
-# Archaeological-Prediction-Model-Lantau
-Archaeological prediction of Lantau in Hong Kong using MaxEnt Model and OneClassSVM
+# Archaeological-Prediction-Model
+Archaeological prediction in Hong Kong using MaxEnt Model and OneClassSVM
+WIP
